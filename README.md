@@ -40,6 +40,8 @@ Build Project
   npm run build
 ```
 ## Screenshots
+link https://frontend-assignment-amber.vercel.app
+## Screenshots
 
 ![plot1](./demo/assignment_first.png)
 ![plot2](./demo/assignment_second.png)
