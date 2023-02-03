@@ -39,8 +39,9 @@ Build Project
 ```bash
   npm run build
 ```
-## Screenshots
-link https://frontend-assignment-amber.vercel.app
+## Link
+https://frontend-assignment-amber.vercel.app
+
 ## Screenshots
 
 ![plot1](./demo/assignment_first.png)
